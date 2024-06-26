@@ -1,2 +1,2 @@
 # Avocados
-Avocados recipe app using swift UI
+Avocados recipes app using swift UI
