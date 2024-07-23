@@ -51,7 +51,7 @@ struct SettingsView: View {
                         HStack{
                             Text("Developer").foregroundColor(Color.gray)
                             Spacer()
-                            Text("John / Jane")
+                            Text("Hein Htet Aung")
                         }
                         HStack{
                             Text("Designer").foregroundColor(Color.gray)
